@@ -6,8 +6,8 @@ $('.counter').counterUp({
 
 //===================================counter-down
 
-      $('.example').countdown({
-        date: '12/24/2022 23:59:59'
-        }, function () {
-          alert('Merry Christmas!');
-        });
+      // $('.example').countdown({
+      //   date: '12/24/2022 23:59:59'
+      //   }, function () {
+      //     alert('Merry Christmas!');
+      //   });
